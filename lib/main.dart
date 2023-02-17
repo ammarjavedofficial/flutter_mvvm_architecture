@@ -15,6 +15,6 @@ void main() async {
 
 
   runApp(
-    AppNameHere(),
+    const AppNameHere(),
   );
 }
